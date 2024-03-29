@@ -1,14 +1,9 @@
-# vue-project
+## Project Technology and Key features
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Vue 3
+2. Vite
+3. Tailwind css
+4. eslint
 
 ## Project Setup
 
