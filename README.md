@@ -5,6 +5,12 @@
 3. Tailwind css
 4. eslint
 
+## Project Functionality
+
+1. Filter Pets on basis of City and Animal
+2. Sort Pets
+3. Clear Filter
+
 ## Project Setup
 
 ```sh
